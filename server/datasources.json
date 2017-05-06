@@ -1,0 +1,12 @@
+{
+  "my_datasource": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "items",
+    "password": "admin",
+    "name": "my_datasource",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
